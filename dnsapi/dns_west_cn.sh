@@ -2,8 +2,9 @@
 
 # West.cn Domain api
 #WEST_Username="username"
-#WEST_Key="sADDsdasdgdsf"
+#WEST_Key="md5(apikey)"
 #Set key at https://www.west.cn/manager/API/APIconfig.asp
+#Help at https://github.com/acmesh-official/acme.sh/wiki/dnsapi2#162-use-westcn-api
 
 REST_API="https://api.west.cn/API/v2"
 
